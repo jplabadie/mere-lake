@@ -1,0 +1,16 @@
+{
+  "invariantSha256": "ef74b0be085770b5eed468370fa1980a019f649e3497049abceb600bc25cfa02",
+  "analytics": {
+    "orders": 8,
+    "paidOrders": 5,
+    "paidCents": 13100,
+    "refundedCents": 1500,
+    "paidCentsByRegion": {
+      "east": 6000,
+      "north": 1500,
+      "west": 5600
+    }
+  },
+  "terraformVersion": "1.9.8",
+  "terraformSha256": "186e0145f5e5f2eb97cbd785bc78f21bae4ef15119349f6ad4fa535b83b10df8"
+}

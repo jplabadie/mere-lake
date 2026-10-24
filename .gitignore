@@ -1,0 +1,9 @@
+node_modules/
+.DS_Store
+*.log
+.env
+.env.*
+infra/terraform/.terraform/
+infra/terraform/*.tfstate
+infra/terraform/*.tfstate.*
+infra/terraform/crash.log
