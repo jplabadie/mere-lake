@@ -1,0 +1,9 @@
+order_id,region,amount_cents,status,day
+1001,west,2500,paid,2026-10-01
+1002,east,1800,paid,2026-10-01
+1003,west,900,refunded,2026-10-01
+1004,east,4200,paid,2026-10-02
+1005,north,1500,paid,2026-10-02
+1006,north,700,pending,2026-10-02
+1007,west,3100,paid,2026-10-03
+1008,east,600,refunded,2026-10-03
